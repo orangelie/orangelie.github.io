@@ -2,7 +2,7 @@
 title: Enlightenment
 layout: post
 date: '2018-01-28 22:43:01 +0000'
-background: https://cdnb.artstation.com/p/assets/images/images/006/170/271/large/alena-aenami-lights1k1.jpg?1496536109
+background: /post_img/wallpaper.jpg
 subtitle: Perspectives and Inspirations
 artist: artstation.com/aenamiart
 ---

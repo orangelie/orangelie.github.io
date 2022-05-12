@@ -29,9 +29,10 @@ artist: artstation.com
 </span>  
   <br>  
 <a  name="target1">  </a>  
-## ♣️ 충돌처리와 충돌반응
-만약에 우리가 아래와 같이 두개의 원이 있다고 가정할때, 두 원이 겹치는 조건은 어떻게 계산할 수 있을까요? 
-![circle_collision](/post_img/gamephysics/circle_collision.jpg)
+## ♣️ 충돌처리와 충돌반응  
+만약에 우리가 아래와 같이 두개의 원이 있다고 가정할때, 두 원이 겹치는 조건은 어떻게 계산할 수 있을까요?  
+절대로 복잡하게 계산하는것이아니며, 또한 계산량이 많아서도 안됩니다.  
+![circle_collision](/post_img/gamephysics/circle_collision.png)  
 
 절대로 복잡하게 계산하는것이아니며, 또한 계산량이 많아서도 안됩니다. 
 $$

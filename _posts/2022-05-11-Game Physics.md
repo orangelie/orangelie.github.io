@@ -16,19 +16,24 @@ artist: artstation.com
   
 시작하기 앞서서, 글쓴이는 해당 글을 정리하고 직접 레포지토리와 함께 개설했습니다.  
 만약에 잘못된 정보나 고칠점이 존재한다고 생각하신다면 **gamedeveloppp@gmail.com**으로 연락부탁드립니다 !  
-  <br></br>  
+  <br>
 > 사전에 알아두면 좋은 렌더링 기술: **DirectX9 DirectX11 DirectX12 Unity3D**
 
-<br></br>
-## <span style='background-color: #dcffe4'> 🎮 목차 </span>
-<span style='background-color: #fff5b1'>
-<a  href="#target1"> 충돌처리와 충돌반응 </a>
+<br>
+## 🎮 목차    
+   
+<span style='background-color: #fff5b1'>  
+<a  href="#target1"> 충돌처리와 충돌반응 </a>  
   
-<a  href="#target2">  질점 </a>  
-</span>
-  <br></br> 
-<a  name="target1">  </a>
-## ♣️ <span style='background-color: #dcffe4'> 🎮 목차 </span>
+<a  href="#target2">  질점 </a>   
+</span>  
+  <br>  
+<a  name="target1">  </a>  
+## ♣️ 충돌처리와 충돌반응
+만약에 우리가 아래와 같이 두개의 원이 있다고 가정할때, 두 원이 겹치는 조건은 어떻게 계산할 수 있을까요? 
+![circle_collision](/post_img/gamephysics/circle_collision.jpg)
+
+절대로 복잡하게 계산하는것이아니며, 또한 계산량이 많아서도 안됩니다. 
 $$
 f(x)=ax^2+bx+c\\ (테스트용수식)
 g(x)=Ax^4

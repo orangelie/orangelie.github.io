@@ -28,9 +28,8 @@ print_hi('FuckYou')
 #include <iostream>
 
 int main()
-
 {
-
+  std::cout << "hi";
 }
 
 {% endhighlight %}

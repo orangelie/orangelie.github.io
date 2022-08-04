@@ -1,0 +1,8 @@
+---
+layout: post
+title:  " - DirectX 11 to D2D resources on DirectX 12"
+date:   2022-08-04 01:08:33 +0900
+categories: MSVC
+---
+
+안녕하세요.
